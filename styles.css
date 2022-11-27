@@ -1,0 +1,102 @@
+body {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+
+#title {
+    background-color: #e86b75;
+    color: white;
+}
+
+#containerid {
+    padding: 3% 15%;
+}
+
+h1 {
+
+    font-size: 3rem;
+    line-height: 1.5;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.navbar-brand {
+    font-size: 2.5rem;
+    font-weight: bold;
+    color: white;
+}
+
+.img1 {
+    width: 50%;
+    transform: rotate(25deg)
+}
+
+#features {
+    padding: -2% 15%;
+    text-align: center;
+}
+
+.features-box {
+    text-align: center;
+    padding: 5%;
+}
+
+h3 {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+p {
+    color: grey;
+}
+
+.icon {
+    color: #ef8172;
+    margin-bottom: 1rem;
+}
+
+.icon:hover {
+    color: rgb(236, 90, 175);
+}
+
+#testimonials {
+    padding: 7% 15%;
+    text-align: center;
+    background-color: #e86b75;
+    color: white;
+
+}
+
+h2 {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+
+.testimonialimag {
+    width: 15%;
+    border-radius: 200%;
+}
+
+#press {
+    background-color: #e86b75;
+    text-align: center;
+    padding-bottom: 3%;
+
+}
+
+.press-logo {
+    width: 15%;
+    margin: 20px 15px;
+}
+
+.card-title {
+    font-family: cursive;
+    font-weight: bolder;
+    font-size: 1cm;
+}
+
+ .card-body{
+    background-color: rgb(117, 192, 219);
+    border: 2px solid black;
+    
+    border-radius: 13px;
+
+} 
